@@ -2,5 +2,5 @@ Hi my name is Ayush pal
 I am from Uttar pradesh 
 I had completed my graduation from vit-ap,
 My Branch was CSE.
-I am currently working as an intern in minfy tech.
-I am working on a assignment-1, which is git and github related.
+
+first change - completed
